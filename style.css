@@ -1,0 +1,182 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Oswald:wght@500&display=swap');
+
+body{
+    margin:0;
+    padding:0;
+    font-family:"Oswald";
+}
+
+nav{
+    margin-bottom: 40px;
+}
+ul{
+    list-style-type: none;
+    text-align: center;
+    background-color:grey;
+    width:100%;
+    padding:0;
+    margin:0;
+}
+
+li{
+    display:inline;
+    margin: 35px;
+    font-family:"Oswald";
+    font-size:170%;
+    
+}
+
+ul a{
+    text-decoration: none;
+    text-transform: capitalize;
+    color:white;
+}
+
+a:hover{
+    background-color: white;
+    color:grey;
+}
+
+.cards{
+    padding-top:20px;
+    width:100%;
+    text-align:center;
+}
+
+#html{
+    width:24%;
+    float:left;
+}
+
+#html a{
+    text-decoration: none;
+    color:black;
+}
+
+#javascript{
+    width:24%;
+    float:left;
+}
+
+#javascript a{
+    text-decoration: none;
+    color:black;
+}
+
+#git{
+    width:24%;
+    float:left;
+}
+
+#git a{
+    text-decoration: none;
+    color:black;
+}
+
+#git a h2{
+    padding-top:25px;
+}
+
+#git-hub{
+    width:24%;
+    float:left;
+}
+
+#git-hub a{
+    text-decoration: none;
+    color:black;
+}
+
+#python{
+    width:24%;
+    float:left;
+}
+
+#python a{
+    text-decoration: none;
+    color:black;
+}
+
+#flask{
+    width:24%;
+    float:left;
+}
+
+#flask a{
+    text-decoration: none;
+    color:black;
+}
+
+#flask a img{
+    height:230px;
+}
+
+#mongoDB{
+    width:24%;
+    float:left;
+}
+
+#mongoDB a{
+    text-decoration: none;
+    color:black;
+}
+
+#mongoDB a img{
+    height:230px;
+}
+
+#mysql{
+    width:24%;
+    float:left;
+}
+
+#mysql a{
+    text-decoration: none;
+    color:black;
+}
+
+#mysql a img{
+    height:230px;
+}
+
+#django{
+    width:24%;
+    float:left;
+}
+
+#django a{
+    text-decoration: none;
+    color:black;
+}
+
+#django a img{
+    height:230px;
+}
+
+#heroku{
+    width:24%;
+    float:left;
+}
+
+#heroku a{
+    text-decoration: none;
+    color:black;
+}
+
+#heroku a img{
+    height:230px;
+}
+
+#stream-three{
+    width:24%;
+    float:left;
+}
+
+#stream-three a{
+    text-decoration: none;
+    color:black;
+}
+
+#stream-three a img{
+    height:230px;
+}
